@@ -12,3 +12,19 @@
   color: #F37972; /* base orange/salmon */
   display: inline-block;
 }
+
+/*Hero styles*/
+.hero{
+  background-image: url('../img/hero.jpg');
+  background-position: center;
+  background-size: cover;
+  height:350px;
+
+  padding-top: 40px;
+}
+.white-text{
+  color:#fff;
+}
+.hero .white-text{
+  font-size: 2em;
+}
