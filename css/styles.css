@@ -13,6 +13,12 @@
   display: inline-block;
 }
 
+.flex-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 /*Hero styles*/
 .hero{
   background-image: url('../img/hero.jpg');
@@ -27,4 +33,16 @@
 }
 .hero .white-text{
   font-size: 2em;
+}
+
+/*Featured and Service section */
+.background-gray{
+  background-color: #EDF1F4; /* light gray */
+  padding:8px 12px;
+  border-radius: 15px;
+}
+
+
+.service-text{
+  color: rgba(64, 224, 208, 0.5);
 }
