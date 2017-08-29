@@ -42,7 +42,11 @@
   border-radius: 15px;
 }
 
-
 .service-text{
   color: rgba(64, 224, 208, 0.5);
+}
+
+.footer-black{
+  background-color: black;
+  
 }
